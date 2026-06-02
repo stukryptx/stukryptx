@@ -1,4 +1,3 @@
-```markdown
 <!-- Profile Banner / Header GIF -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=//+stukryptx+%7C+CTI+Researcher;Cyber+Threat+Intelligence;OSINT+%26+Dark+Web+Analyst;Reverse+Engineering+%26+Malware+Analysis" alt="Typing SVG" />
@@ -150,4 +149,3 @@ print(f"{me.alias} | {me.role}")
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer" width="100%" />
 </p>
-```
