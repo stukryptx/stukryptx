@@ -61,13 +61,13 @@ print(f"💡 {me.motto}")
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=00ff00&text_color=ffffff&border_color=333333&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&border_color=00ff00&langs_count=8&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&border_color=333333&langs_count=8&hide=html,css" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0a0a0a&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0a0a0a&stroke=333333&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&include_all_commits=true" />
 </div>
 
 <div align="center">
@@ -134,11 +134,6 @@ print(f"💡 {me.motto}")
 ---
 
 ## 🧠 CTI Activity Wall
-
-<div align="center">
-  <!-- Alternative trophy display without the broken image -->
-  <img src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00&include_all_commits=true&count_private=true&hide=stars,issues,prs&show_icons=true&hide_title=true" />
-</div>
 
 <details>
 <summary><b>📌 Recent CTI Activity (KryptNexus Vault)</b></summary>
@@ -230,14 +225,5 @@ print(f"💡 {me.motto}")
 ## 🏴‍☠️ "Knowledge is power — share it responsibly."
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<!-- Random Quote / Status -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0a0a0a&border_color=00ff00&quote=The%20only%20way%20to%20find%20the%20limit%20of%20the%20possible%20is%20to%20go%20beyond%20it%20into%20the%20impossible.&author=Arthur%20C.%20Clarke" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 </p>
