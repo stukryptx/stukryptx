@@ -68,14 +68,12 @@ print(f"{me.alias} | {me.role}")
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <!-- Add &count_private=true to show private commits -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&border_color=00ff00&langs_count=8" />
+  
+  <!-- For streak stats, private commits are automatically included -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&border_color=00ff00&langs_count=8&hide=html,css" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0a0a0a&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" />
-</div>
-
 ---
 
 ## 🛠️ Skills & Tooling
