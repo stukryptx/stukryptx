@@ -11,10 +11,10 @@
 <!-- Profile Stats Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stukryptx&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CTI-Research-00ff00?style=for-the-badge&logo=shadow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-Dark%20Web-00ff00?style=for-the-badge&logo=onion&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTI-Research-00ff00?style=for-the-badge&logo=shadow&logoColor=black" />
+  <img src="https://img.shields.io/badge/OSINT-Dark%20Web-00ff00?style=for-the-badge&logo=onion&logoColor=black" />
   <img src="https://img.shields.io/badge/Malware-Analysis-00ff00?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH-Authenticated-00ff00?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-Authenticated-00ff00?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 ---
@@ -227,3 +227,6 @@ print(f"💡 {me.motto}")
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 </p>
+- **Consistent style** - All security-related badges now have black text
+
+The badges now look cleaner and more professional with black text on the neon green background! 🎯
