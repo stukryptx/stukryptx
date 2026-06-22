@@ -1,229 +1,210 @@
-# 🚀 Hi, I'm stukryptx 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Threat+Intelligence+Researcher;OSINT+%26+Dark+Web+Analyst;Malware+Analysis+%26+Reverse+Engineering;Automated+Threat+Monitoring;Python+%7C+Shell+%7C+Security" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=180&section=header&text=stukryptx&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+```
+ ██████╗████████╗██╗   ██╗██╗  ██╗██████╗ ██╗   ██╗██████╗ ████████╗██╗  ██╗
+██╔════╝╚══██╔══╝██║   ██║██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝╚██╗██╔╝
+╚█████╗    ██║   ██║   ██║█████╔╝ ██████╔╝ ╚████╔╝ ██████╔╝   ██║    ╚███╔╝ 
+ ╚═══██╗   ██║   ██║   ██║██╔═██╗ ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║    ██╔██╗ 
+██████╔╝   ██║   ╚██████╔╝██║  ██╗██║  ██║   ██║   ██║        ██║   ██╔╝╚██╗
+╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝   ╚═╝  ╚═╝
+```
 
-<!-- Profile Stats Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stukryptx&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge&labelColor=00ff00&color=00ff00" />
-  <img src="https://img.shields.io/badge/CTI-Research-00ff00?style=for-the-badge&labelColor=00ff00&color=00ff00" />
-  <img src="https://img.shields.io/badge/OSINT-Dark%20Web-00ff00?style=for-the-badge&labelColor=00ff00&color=00ff00" />
-  <img src="https://img.shields.io/badge/Malware-Analysis-00ff00?style=for-the-badge&labelColor=00ff00&color=00ff00" />
-  <img src="https://img.shields.io/badge/SSH-Authenticated-00ff00?style=for-the-badge&labelColor=00ff00&color=00ff00" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cyber+Threat+Intelligence+Researcher;Dark+Web+%26+OSINT+Analyst;Malware+Analysis+%26+Reverse+Engineering;Automated+Threat+Intelligence+Pipelines;Blockchain+%26+Crypto+Investigations" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=stukryptx&label=PROFILE+VIEWS&color=39FF14&style=flat-square&labelColor=000000)](https://github.com/stukryptx)
+![CTI](https://img.shields.io/badge/CTI-Research-39FF14?style=flat-square&labelColor=000000&color=39FF14)
+![OSINT](https://img.shields.io/badge/OSINT-Dark%20Web-39FF14?style=flat-square&labelColor=000000&color=39FF14)
+![Malware](https://img.shields.io/badge/Malware-Analysis-39FF14?style=flat-square&labelColor=000000&color=39FF14)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=flat-square&labelColor=000000&color=39FF14)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
 ```python
 class stukryptx:
     def __init__(self):
-        self.role = "Cyber Threat Intelligence Researcher"
+        self.role        = "Cyber Threat Intelligence Researcher"
+        self.location    = "Jaipur, IN"
+        self.contact     = "stukryptx@protonmail.com"
         self.specialties = [
-            "🔍 Threat Actor Tracking",
-            "🌐 Dark Web Monitoring",
-            "🦠 Malware Analysis",
-            "💰 Blockchain Investigations",
-            "🤖 Automated Intelligence Collection"
+            "Threat Actor Tracking",
+            "Dark Web Monitoring & Forum Scraping",
+            "Malware Analysis — Android Static / Dynamic",
+            "Blockchain Investigations & Wallet Tracing",
+            "Automated CTI Collection Pipelines",
+            "IOC Extraction & Infrastructure Mapping",
         ]
-        self.tools = [
+        self.tools       = [
             "Python", "Shell", "Obsidian", "MobSF",
-            "Wireshark", "Burp Suite", "GitHub Actions"
+            "Wireshark", "Burp Suite", "Maltego",
+            "MISP", "TheHive", "Shodan", "GitHub Actions",
         ]
-        self.motto = "⚡ Knowledge is power — share it responsibly."
-        self.private_commits = True
-    
-    def current_focus(self):
-        return "🔒 Automating CTI collection & analysis pipelines"
-    
-    def get_expertise(self):
+        self.vault       = "KryptNexus — encrypted, local"
+        self.motto       = "Knowledge is power — share it responsibly."
+        self.commits     = "private by default"
+
+    def current_ops(self):
         return {
-            "Dark Web": "Forum scraping & monitoring",
-            "Malware": "Android static/dynamic analysis",
-            "Infrastructure": "TLD tracking & IOC extraction",
-            "Intelligence": "Obsidian vault management"
+            "Lazarus Group"  : "Wallet cluster mapping & mixer tracking",
+            "Qakbot Variant" : "TTP documentation & C2 infra mapping",
+            "BreachForums"   : "Async scraper live — dump analysis running",
+            "SE Asia APT"    : "New group identified — profiling in progress",
         }
 
 me = stukryptx()
-print(f"👤 {me.role}")
-print(f"🎯 Focus: {', '.join(me.specialties)}")
-print(f"💡 {me.motto}")
+print(f"[*] Operator  : {me.role}")
+print(f"[*] Location  : {me.location}")
+print(f"[*] Focus     : {', '.join(me.specialties[:3])}")
+print(f"[*] Vault     : {me.vault}")
+print(f"[*] Motto     : {me.motto}")
 ```
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=00ff00&text_color=ffffff&border_color=333333&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&border_color=333333&langs_count=8&hide=html,css" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0a0a0a&stroke=333333&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&include_all_commits=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stukryptx&theme=github-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&radius=8&include_private=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
+## `> github --stats`
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔍 **threatwire-intelligence** | Premium CTI marketing landing page | Next.js, Tailwind CSS |
-| 🧩 **KryptNexus** | Advanced CTI Obsidian vault for threat tracking | Obsidian, Markdown, Shell |
-| 📡 **BreachForums-Scrapper** | Async scraping engine for BreachForums monitoring | Python, Async, HTML |
-| 🌐 **PwnForums-Scrapper** | Advanced CTI platform for Dark Web monitoring | Python, Automation, CTI |
-| 🎯 **tld-tracker** | IANA TLD mirroring with GitHub Actions | Shell, GitHub Actions |
-| 💾 **DarkWeb-Forums-DB-BKP** | Dark web archival snapshots | Automated Backups, MongoDB |
-| 📱 **mobsf-android-analysis-lab** | Android malware analysis lab | Shell, MobSF, Magisk, RootAVD |
-| 📒 **docs-hub** | Obsidian notes backup | Markdown, Git |
-| 🔐 **Forums-DB-Backup** | MongoDB snapshots with restore support | MongoDB, Backup Automation |
-| 🕸️ **MyBB-Scrapper** | CTI platform for Telegram & MyBB collection | Python, Telegram API, Diffing |
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=080808&title_color=39FF14&icon_color=39FF14&text_color=aaaaaa&border_color=1a1a1a&include_all_commits=true&count_private=true&hide_border=false" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=080808&title_color=39FF14&text_color=aaaaaa&border_color=1a1a1a&langs_count=8&hide=html,css" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=080808&stroke=1a1a1a&ring=39FF14&fire=39FF14&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=39FF14&sideLabels=555555&dates=444444" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stukryptx&theme=github-dark&bg_color=080808&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=false&radius=0" />
 
 </div>
 
 ---
 
-## 🛠️ Skills & Tooling
+## `> ls -la ./projects`
 
 <div align="center">
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🔬 Security & Analysis
-![MobSF](https://img.shields.io/badge/MobSF-00C853?style=for-the-badge&logo=android&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-2C3E50?style=for-the-badge&logo=shadow&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### 🧰 CTI & OSINT Tools
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-FF6600?style=for-the-badge&logo=maltego&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-FFC107?style=for-the-badge&logo=thehive&logoColor=black)
-![MISP](https://img.shields.io/badge/MISP-FF0000?style=for-the-badge&logo=misp&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=00ff00)
-
-### 📦 Frameworks & Platforms
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| # | Project | Description | Stack | Status | Commits |
+|---|---------|-------------|-------|--------|---------|
+| 01 | **threatwire-intelligence** | Premium CTI marketing landing page with live intel feed | `Next.js` `Tailwind` `TS` | 🟢 Active | 47 |
+| 02 | **KryptNexus** | Advanced Obsidian vault for threat actor tracking | `Obsidian` `Markdown` `Shell` | 🟢 Active | 89 |
+| 03 | **BreachForums-Scrapper** | Async scraping engine for dark web forum monitoring | `Python` `Asyncio` `HTML` | 🟡 Maintenance | 34 |
+| 04 | **PwnForums-Scrapper** | Advanced CTI platform for dark web monitoring | `Python` `Automation` | 🟢 Active | 28 |
+| 05 | **tld-tracker** | IANA TLD mirroring via GitHub Actions automation | `Shell` `GH Actions` | 🟢 Automated | 156 |
+| 06 | **DarkWeb-Forums-DB-BKP** | Dark web archival snapshots with restore support | `MongoDB` `Automation` | 🟢 Active | 41 |
+| 07 | **mobsf-android-analysis-lab** | Rooted AVD lab for Android malware analysis | `MobSF` `Magisk` `Shell` | 🟢 Active | 23 |
+| 08 | **MyBB-Scrapper** | Telegram + MyBB CTI collection with diff tracking | `Python` `Telegram API` | 🔵 Planning | 12 |
+| 09 | **Forums-DB-Backup** | MongoDB snapshots with automated restore support | `MongoDB` `Shell` | 🟢 Active | 19 |
+| 10 | **docs-hub** | Obsidian notes backup with version control | `Markdown` `Git` | 🟢 Active | 67 |
 
 </div>
 
 ---
 
-## 🧠 CTI Activity Wall
-
-<details>
-<summary><b>📌 Recent CTI Activity (KryptNexus Vault)</b></summary>
-<br>
-
-### 🔐 Threat Actor Tracking
-- [REDACTED] ransomware group infrastructure update
-- Lazarus wallet cluster mapping & tracking
-- New APT group identified in Southeast Asia
-
-### 🌐 Dark Web Monitoring
-- New carding forum identified — monitoring initiated
-- BreachForums data dump analysis in progress
-- Underground market price tracking (Q2 2026)
-
-### 🧪 Malware Analysis
-- Qakbot variant analysis — TTPs documented
-- Android banking trojan reverse engineering
-- C2 infrastructure mapping and IOC extraction
-
-### 🪙 Cryptocurrency Investigations
-- Lazarus Group wallet flow analysis
-- Mixer/tumbler transaction tracking
-- Ransomware payment tracing
-
-> *Full notes stored locally in Obsidian vault | KryptNexus | Encrypted backups*
-
-</details>
-
-<details>
-<summary><b>📊 Project Status Dashboard</b></summary>
-<br>
-
-| Project | Status | Last Update | Commits (Private) |
-|---------|--------|-------------|-------------------|
-| threatwire-intelligence | 🟢 Active | Today | 47 |
-| KryptNexus | 🟢 Active | Today | 89 |
-| BreachForums-Scrapper | 🟡 Maintenance | 3 days ago | 34 |
-| PwnForums-Scrapper | 🟢 Active | Yesterday | 28 |
-| tld-tracker | 🟢 Automated | Daily | 156 |
-| mobsf-android-analysis-lab | 🟢 Active | 5 days ago | 23 |
-| MyBB-Scrapper | 🔵 Planning | 1 week ago | 12 |
-| docs-hub | 🟢 Active | Today | 67 |
-
-</details>
-
----
-
-## 📊 Repository Statistics
+## `> cat skills.cfg`
 
 <div align="center">
 
-| Category | Count |
-|----------|-------|
-| 📁 Total Repositories | 10 |
-| 🔒 Private Repos | 4 |
-| 🌐 Public Repos | 6 |
-| 🐍 Python Projects | 5 |
-| 📦 Shell Scripts | 3 |
-| 🎨 Web Projects | 2 |
-| 📱 Mobile Security | 1 |
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-080808?style=flat-square&logo=python&logoColor=39FF14)
+![Shell](https://img.shields.io/badge/Shell-080808?style=flat-square&logo=gnu-bash&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-080808?style=flat-square&logo=typescript&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-080808?style=flat-square&logo=javascript&logoColor=39FF14)
+
+### Security & Analysis
+![MobSF](https://img.shields.io/badge/MobSF-080808?style=flat-square&logo=android&logoColor=39FF14)
+![Wireshark](https://img.shields.io/badge/Wireshark-080808?style=flat-square&logo=wireshark&logoColor=39FF14)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-080808?style=flat-square&logo=burpsuite&logoColor=39FF14)
+![Metasploit](https://img.shields.io/badge/Metasploit-080808?style=flat-square&logo=metasploit&logoColor=39FF14)
+![OSINT](https://img.shields.io/badge/OSINT-080808?style=flat-square&logoColor=39FF14)
+
+### CTI & OSINT Tooling
+![Obsidian](https://img.shields.io/badge/Obsidian-080808?style=flat-square&logo=obsidian&logoColor=39FF14)
+![Maltego](https://img.shields.io/badge/Maltego-080808?style=flat-square&logoColor=39FF14)
+![TheHive](https://img.shields.io/badge/TheHive-080808?style=flat-square&logoColor=39FF14)
+![MISP](https://img.shields.io/badge/MISP-080808?style=flat-square&logoColor=39FF14)
+![Shodan](https://img.shields.io/badge/Shodan-080808?style=flat-square&logoColor=39FF14)
+
+### Platforms & Infra
+![Next.js](https://img.shields.io/badge/Next.js-080808?style=flat-square&logo=next.js&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/Docker-080808?style=flat-square&logo=docker&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-080808?style=flat-square&logo=mongodb&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-080808?style=flat-square&logo=github-actions&logoColor=39FF14)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `> tail -f /var/log/kryptnexus/ops.log`
 
-<p align="center">
-  <a href="https://github.com/stukryptx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/stukryptx">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:stukryptx@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/stukryptx">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://keybase.io/stukryptx">
-    <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" />
-  </a>
-</p>
+```
+[2026-06-22 08:14:02] [ALERT]   Lazarus wallet cluster — movement detected on 3 addresses
+[2026-06-22 07:51:18] [TRACK]   BreachForums dump analysis — 2.3GB processed, IOCs extracted
+[2026-06-22 06:30:00] [SYNC]    tld-tracker — 847 new entries mirrored from IANA root zone
+[2026-06-21 23:44:55] [MONITOR] Underground market price surge — carding forum Q2 report updated
+[2026-06-21 21:10:33] [IOC]     Qakbot C2 range updated — 14 new IPs added to block list
+[2026-06-21 19:05:11] [PROFILE] SE Asia APT group — infrastructure pivot identified
+[2026-06-21 17:22:44] [RE]      Android banking trojan — dynamic analysis complete, C2 mapped
+[2026-06-21 14:00:00] [BACKUP]  KryptNexus vault encrypted backup — OK (89 notes, 1.2GB)
+[...] Full notes stored locally in Obsidian vault | KryptNexus | Encrypted
+```
 
 ---
 
-## 🏴‍☠️ "Knowledge is power — share it responsibly."
+## `> project --status`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
-</p>
+<div align="center">
+
+| Project | Status | Last Update | Commits |
+|---------|--------|-------------|---------|
+| `threatwire-intelligence` | 🟢 Active | Today | 47 |
+| `KryptNexus` | 🟢 Active | Today | 89 |
+| `tld-tracker` | 🟢 Automated | Daily | 156 |
+| `docs-hub` | 🟢 Active | Today | 67 |
+| `DarkWeb-Forums-DB-BKP` | 🟢 Active | Yesterday | 41 |
+| `PwnForums-Scrapper` | 🟢 Active | Yesterday | 28 |
+| `Forums-DB-Backup` | 🟢 Active | 2 days ago | 19 |
+| `mobsf-android-analysis-lab` | 🟢 Active | 5 days ago | 23 |
+| `BreachForums-Scrapper` | 🟡 Maintenance | 3 days ago | 34 |
+| `MyBB-Scrapper` | 🔵 Planning | 1 week ago | 12 |
+
+</div>
+
+---
+
+## `> netstat --connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-stukryptx-080808?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/stukryptx)
+[![X](https://img.shields.io/badge/X-stukryptx-080808?style=flat-square&logo=x&logoColor=39FF14)](https://x.com/stukryptx)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-stukryptx-080808?style=flat-square&logo=protonmail&logoColor=39FF14)](mailto:stukryptx@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stukryptx-080808?style=flat-square&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/stukryptx)
+[![Keybase](https://img.shields.io/badge/Keybase-stukryptx-080808?style=flat-square&logo=keybase&logoColor=39FF14)](https://keybase.io/stukryptx)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Knowledge is power — share it responsibly."             │
+│                                          — stukryptx       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=3&section=footer" width="100%"/>
+
+</div>
