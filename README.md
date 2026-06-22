@@ -63,17 +63,9 @@ print(f"💡 {me.motto}")
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=00ff00&text_color=ffffff&border_color=333333&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&border_color=333333&langs_count=8&hide=html,css" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0a0a0a&stroke=333333&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&include_all_commits=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stukryptx&theme=github-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&radius=8&include_private=true" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
