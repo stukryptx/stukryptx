@@ -50,17 +50,13 @@ print(f"💡 {sentinel.motto}")
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=39FF14&icon_color=39FF14&text_color=E0E0E0&border_color=1A1A1A&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=39FF14&icon_color=39FF14&text_color=E0E0E0&border_color=1A1A1A&include_all_commits=true&count_private=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stukryptx&layout=compact&theme=dark&bg_color=0A0A0A&title_color=39FF14&text_color=E0E0E0&border_color=1A1A1A&langs_count=8&hide=html,css,scss" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0A0A0A&stroke=1A1A1A&ring=39FF14&fire=39FF14&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=39FF14&sideLabels=39FF14&dates=E0E0E0&include_all_commits=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stukryptx&theme=github-dark&bg_color=0A0A0A&color=39FF14&line=39FF14&point=E0E0E0&area=true&hide_border=true&radius=12&include_private=true" />
 </div>
 
 <br>
