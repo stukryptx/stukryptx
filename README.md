@@ -59,10 +59,6 @@ print(f"💡 {me.motto}")
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stukryptx&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=00ff00&text_color=ffffff&border_color=333333&include_all_commits=true&count_private=true" />
-  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stukryptx&theme=dark&background=0a0a0a&stroke=333333&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&include_all_commits=true" />
 </div>
